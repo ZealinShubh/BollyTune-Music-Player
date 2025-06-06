@@ -1,0 +1,68 @@
+[
+  {
+    "img": "images/cover/cover.jpg",
+    "title": "Happy Hits!",
+    "description": "Hits to boost your mood and fill you with happiness",
+    "audio": "songs/1.mp3"
+  },
+  {
+    "img": "images/cover/cover2.jpg",
+    "title": "Chill Vibes",
+    "description": "Relax and unwind with chill songs",
+    "audio": "songs/2.mp3"
+  },
+  {
+    "img": "images/cover/cover3.jpg",
+    "title": "Top India",
+    "description": "India's top trending songs right now",
+    "audio": "songs/3.mp3"
+  },
+  {
+    "img": "images/cover/cover4.jpg",
+    "title": "Copyright Songs",
+    "description": "Cover Songs for you",
+    "audio": "songs/4.mp3"
+  },
+  {
+    "img": "images/cover/cover5.jpg",
+    "title": "Dark Horse",
+    "description": "Dark Songs for you",
+    "audio": "songs/5.mp3"
+  },
+  {
+    "img": "images/cover/cover6.jpg",
+    "title": "Diljit Dosanjh",
+    "description": "Diljit Dosanjh hits",
+    "audio": "songs/6.mp3"
+  },
+  {
+    "img": "images/cover/cover7.jpg",
+    "title": "Go Funky",
+    "description": "Lets go Funky",
+    "audio": "songs/7.mp3"
+  },
+  {
+    "img": "images/cover/cover8.jpg",
+    "title": "Karan Aujla",
+    "description": "Karan Aujla for you",
+    "audio": "songs/8.mp3"
+  },
+  {
+    "img": "images/cover/cover9.jpg",
+    "title": "I Love You",
+    "description": "Love is in the air",
+    "audio": "songs/9.mp3"
+  },
+  {
+    "img": "images/cover/cover10.jpg",
+    "title": "Sleep Songs",
+    "description": "Songs for you",
+    "audio": "songs/10.mp3"
+  },
+  {
+    "img": "images/cover/cover11.jpg",
+    "title": "Get up",
+    "description": "You can do it!",
+    "audio": "songs/10.mp3"
+  }
+]
